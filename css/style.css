@@ -490,7 +490,7 @@ a {
   position: absolute;
   width: 411px;
   height: 409px;
-  background: url (img/Mask.png) no-repeat;
+  background: url(./img/Mask.png);
 }
 
 .description {
