@@ -450,7 +450,7 @@ a {
 }
 .site-navigation__link--active {
   display: block;
-  background: url (logo/Page\ 1.svg) no-repeat;
+  background: url (../logo/Page\ 1.svg) no-repeat;
   padding: 14px;
   margin-left: -18.5px;
 }
@@ -490,7 +490,7 @@ a {
   position: absolute;
   width: 411px;
   height: 409px;
-  background: url(./img/Mask.png);
+  background: url(../img/Mask.png);
 }
 
 .description {
@@ -612,7 +612,7 @@ a {
   position: absolute;
   top: 0px;
   left: 0px;
-  background: url (img/Overlay.svg);
+  background: url (../img/Overlay.svg);
   width: 370px;
   height: 370px;
 }
@@ -639,8 +639,8 @@ a {
   -webkit-box-flex: 0;
       -ms-flex: 0 1 370px;
           flex: 0 1 370px;
-  background: url (img/Overlay.svg);
-  background: linear-gradient(198.43deg, #007397 4.17%, rgba(0, 115, 151, 0.0001) 87.5%);
+  background: url (../img/Overlay.svg);
+/*   background: linear-gradient(198.43deg, #007397 4.17%, rgba(0, 115, 151, 0.0001) 87.5%); */
   margin-bottom: 32px;
 }
 .newmedia-cards__description {
